@@ -24,7 +24,6 @@
 </p>
 
 <div align="center">
-<h3>Check Out My Portfolio</h3>
   <a href="https://www.natepacheco.dev/">
     <img src="https://user-images.githubusercontent.com/68613251/189980929-ea0e22d1-b96e-4c9a-898b-036f678ab768.svg" width="900" height="520"/>
 </div>
