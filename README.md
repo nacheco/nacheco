@@ -1,8 +1,12 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Hope you're having an awesome day.</h1>
+<h1>Hello There 👋🏼</h1>
 
 
-<p>Welcome to my github page! </br> I'm Natanael, a Frontend developer from <img src="https://user-images.githubusercontent.com/68613251/189981849-731d7402-7def-448f-bde6-acd3d4c01aac.png" width="13"/> <b>Edinburg, Texas</b></p>
+<p>I'm Natanael, a Frontend developer from <img src="https://user-images.githubusercontent.com/68613251/189981849-731d7402-7def-448f-bde6-acd3d4c01aac.png" width="13"/> <b>Edinburg, Texas</br></b>
+<a href="https://www.linkedin.com/in/natanaelpachecorobles/">
+<img alt="React" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </p>
+</a>
 <h3>Things I code with</h3>
+
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
