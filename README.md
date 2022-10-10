@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/natanaelpachecorobles/">
 <img alt="React" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
 </a> 
-<a href="https://www.linkedin.com/in/natanaelpachecorobles/">
+<a href="https://www.natepacheco.dev/">
 <img alt="React" src="https://img.shields.io/badge/Portfolio-ffee33?style=for-the-badge" />
 </a> 
  </p>
