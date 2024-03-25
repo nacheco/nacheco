@@ -4,9 +4,7 @@
 <p>I'm Natanael, a Frontend developer from <img src="https://user-images.githubusercontent.com/68613251/189981849-731d7402-7def-448f-bde6-acd3d4c01aac.png" width="13"/> <b>Texas</br></b>
 
 
-<a href="https://www.linkedin.com/in/natanaelpachecorobles/">
-<img alt="React" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a> 
+<a href="https://www.linkedin.com/in/natanaelpachecorobles/"> 
 
 <a href="https://natanaelpacheco.framer.website/">
 <img alt="React" src="https://img.shields.io/badge/Portfolio-ffee33?style=for-the-badge" />
