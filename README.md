@@ -1,20 +1,10 @@
 <h1>Hello There 👋🏼</h1>
 
-
 <p>I'm Natanael, a Frontend developer from <img src="https://user-images.githubusercontent.com/68613251/189981849-731d7402-7def-448f-bde6-acd3d4c01aac.png" width="13"/> <b>Texas</br></b>
-
-
-<a href="https://www.linkedin.com/in/natanaelpachecorobles/"> 
-
-<a href="https://natanaelpacheco.framer.website/">
-<img alt="React" src="https://img.shields.io/badge/Portfolio-ffee33?style=for-the-badge" />
-</a> 
 
 </p>
 <h3>Things I code with</h3>
 
-
- 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
