@@ -35,6 +35,6 @@
 
 <div align="center">
   <a href="https://natanaelpacheco.framer.website/">
-    <img src="https://github.com/Zeviks/Zeviks/assets/68613251/e345f673-723d-4abb-af18-0376b2102bbf" width="1000" height="450"/>
+    <img src="https://github.com/Zeviks/Zeviks/assets/68613251/e345f673-723d-4abb-af18-0376b2102bbf" />
   </a>
 </div>
