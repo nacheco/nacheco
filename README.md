@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <a href="https://natanaelpacheco.framer.website/">
+  <a href="https://natanael.framer.ai/">
     <img src="https://github.com/Zeviks/Zeviks/assets/68613251/faa41662-c2f7-4fc3-83cb-b1c641ac10a1" />
   </a>
 </div>
