@@ -1,8 +1,9 @@
-<h1>Welcome to My Digital Playground! 🚀</h1>
+ <h1>Hello There 👋🏼</h1>
 
-<p>I'm Natanael, a Full Stack Developer crafting digital experiences from the heart of <img src="https://user-images.githubusercontent.com/68613251/189981849-731d7402-7def-448f-bde6-acd3d4c01aac.png" width="13"/> <b>Texas</b>. When I'm not wrangling code, you might find me sipping on some sweet tea or dreaming up the next big app idea! 🤠💻</p>
+<p>I'm Natanael, a Full Stack Developer from <img src="https://user-images.githubusercontent.com/68613251/189981849-731d7402-7def-448f-bde6-acd3d4c01aac.png" width="13"/> <b>Texas</br></b>
 
-<h3>My Coding Arsenal 🛠️</h3>
+</p>
+<h3>Things I code with</h3>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -20,17 +21,8 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-<h3>Fun Facts About Me 🎭</h3>
-<ul>
-  <li>🌮 I believe tacos are a food group</li>
-  <li>🎸 I play air guitar like a pro</li>
-  <li>🌟 My code is as clean as my browser history</li>
-</ul>
-
 <div align="center">
   <a href="https://natanael.framer.ai/">
     <img src="https://github.com/Zeviks/Zeviks/assets/68613251/faa41662-c2f7-4fc3-83cb-b1c641ac10a1" />
   </a>
 </div>
-
-<p align="center">⚡ Let's build something amazing together! ⚡</p>
