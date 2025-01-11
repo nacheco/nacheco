@@ -1,7 +1,5 @@
  <h1>Hello There 👋🏼</h1>
 
-<p>I'm Natanael, a Full Stack Developer from <img src="https://user-images.githubusercontent.com/68613251/189981849-731d7402-7def-448f-bde6-acd3d4c01aac.png" width="13"/> <b>Texas</br></b>
-
 </p>
 <h3>Things I code with</h3>
 
