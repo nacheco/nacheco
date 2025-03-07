@@ -1,7 +1,7 @@
  <h1>Hello There 👋🏼</h1>
 
 </p>
-<h3>Things I code with</h3>
+<h3>Some of the things i build with</h3>
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
