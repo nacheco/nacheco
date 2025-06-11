@@ -1,7 +1,6 @@
 <h1 align="center">Hey There!</h1>
 
 <p align="center">
-  <em>Turning chaos into code, one click at a time ✨</em><br>
   Lead Software Engineer @ <a href="https://pixonahealth.com">Pixona Health</a>
 </p>
 
