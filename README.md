@@ -19,11 +19,8 @@
 At Parsly, we're building the future of mentorship. Our platform will empower experts to monetize their knowledge and personally guide the next generation. Stay tuned.
 </p>
 
-
-
  <a href="https://tryparsly.com/">
-
-   <img width="1584" height="396" alt="Linked-In (2)" src="https://github.com/user-attachments/assets/d7d486da-a52d-443e-82e5-77d1ebeed8da" />
-
-
+   <img width="1584" height="385" alt="Linked-In (2)" src="https://github.com/user-attachments/assets/d7d486da-a52d-443e-82e5-77d1ebeed8da" />
   </a>
+
+
