@@ -1,5 +1,3 @@
-<h1 align="center">Hey There! 👋</h1>
-
 <p align="center">
   Lead Software Engineer & Co-founder @ <a href="https://tryparsly.com">Parsly</a> 🚀
 </p>
